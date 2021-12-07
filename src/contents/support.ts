@@ -28,7 +28,7 @@ export const resources: Resource[] = [
   },
   {
     title: "Community Forum",
-    text: "If you are looking for help with common requests, connect with our community on Discourse.",
+    text: "If you are looking for help with common requests, connect with our community on Discord.",
     link: {
       href: "https://community.gitpod.io/",
       text: "View forum",
